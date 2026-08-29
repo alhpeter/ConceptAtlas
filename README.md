@@ -4,6 +4,9 @@
 
 ConceptAtlas turns a real course syllabus into an interactive, step-by-step learning roadmap. Click any topic to get a focused resource pack—free, paid, practice, books, projects, and videos. When a learner is stuck, ConceptAtlas can diagnose the prerequisite worth revisiting instead of simply repeating the topic.
 
+# Notion:
+https://app.notion.com/p/ConceptAtlas-3cb62c13fa8480a58b12c1f28dced26b?source=copy_link
+
 ## The Product in One Picture
 
 ```text
