@@ -7,6 +7,9 @@ ConceptAtlas turns a real course syllabus into an interactive, step-by-step lear
 # Notion:
 https://app.notion.com/p/ConceptAtlas-3cb62c13fa8480a58b12c1f28dced26b?source=copy_link
 
+# Video Demo
+https://vimeo.com/1222278643?fl=pl&fe=cm
+
 ## The Product in One Picture
 
 ```text
